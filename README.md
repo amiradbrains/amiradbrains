@@ -15,8 +15,9 @@ As a skilled WordPress developer with expertise in PHP, JavaScript, HTML, CSS, a
 - 🔭 I’m currently working on Adbrains Technolgy 
 - 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
-
+- 💬 Ask me about Web Development
+  
+<hr>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amiradbrains)  
 
