@@ -10,7 +10,7 @@ As a skilled WordPress developer with expertise in PHP, JavaScript, HTML, CSS, a
 💠Java Script
 💠HTML
 💠CSS
-
+<hr>
 - 🔭 I’m currently working on Adbrains Technolgy 
 - 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on Github 
