@@ -1,8 +1,15 @@
+(https://drive.google.com/file/d/1hSO7TkQF4hQ5c5G3rLzExZW_aDVegLEM/view?usp=sharing)
 ### Hi there 👋, I'm Amir Khan
-#### Full Stack Web Developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+#### Full Stack 🌐 Web Developer
+As a skilled WordPress developer with expertise in PHP, JavaScript, HTML, CSS, and React, I am passionate about crafting elegant and efficient web solutions. With a keen eye for design and a focus on user experience, I thrive on delivering high-quality projects that meet clients' needs. Constantly learning and adapting to new technologies, I take pride in creating responsive and scalable websites that leave a lasting impression. Collaborative and detail-oriented, I am committed to producing exceptional results and contributing to the ever-evolving world of web development.
 
-Skills: WORDPRESS/ PHP / REACT / JS / HTML / CSS
+## 👨‍🎓 Skills & Experience
+💠WORDPRESS
+💠PHP
+💠REACT
+💠Java Script
+💠HTML
+💠CSS
 
 - 🔭 I’m currently working on Adbrains Technolgy 
 - 🌱 I’m currently learning Laravel 
