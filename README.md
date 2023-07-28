@@ -1,4 +1,4 @@
-(https://drive.google.com/file/d/1hSO7TkQF4hQ5c5G3rLzExZW_aDVegLEM/view?usp=sharing)
+(https://photos.google.com/photo/AF1QipO32STZ941SIW6FZlQukppc9FHHTYyYLyiSUdC0)
 ### Hi there 👋, I'm Amir Khan
 #### Full Stack 🌐 Web Developer
 As a skilled WordPress developer with expertise in PHP, JavaScript, HTML, CSS, and React, I am passionate about crafting elegant and efficient web solutions. With a keen eye for design and a focus on user experience, I thrive on delivering high-quality projects that meet clients' needs. Constantly learning and adapting to new technologies, I take pride in creating responsive and scalable websites that leave a lasting impression. Collaborative and detail-oriented, I am committed to producing exceptional results and contributing to the ever-evolving world of web development.
